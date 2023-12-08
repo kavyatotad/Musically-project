@@ -7,3 +7,4 @@ Seek: Allows the user to manually move forward or backward within a track by dra
 Display the currently playing song and album artwork.
 # usage
 Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
+
